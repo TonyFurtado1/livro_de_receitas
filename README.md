@@ -4,5 +4,5 @@ Olá bem vindos ao livro de receitas  :book:
 
 ### Index
 
-1. salada de tomate
+1. salada de tomate   :tomato:
 
