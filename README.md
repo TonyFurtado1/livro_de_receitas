@@ -2,7 +2,7 @@
 
 Olá bem vindos ao livro de receitas  :book:
 
-### Menu
+### Index
 
 1. salada de tomate
 
